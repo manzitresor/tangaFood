@@ -1,4 +1,6 @@
 export {default as Navbar} from "./navbar/navbar"
 export {default as Home} from "./home/home"
-export {default as About} from "./about"
 export {default as Footer} from "./footer"
+export {default as Login} from "./Login/login"
+export {default as Register} from "./register/register"
+export {default as Contact } from "./contact"

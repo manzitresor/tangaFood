@@ -4,7 +4,7 @@ import { FaDribbbleSquare,FaFacebookF,FaInstagramSquare,FaTwitter } from "react-
 const Footer = () => {
     return ( 
         <>
-        <div className="bg- -900 text-white md:grid lg:grid-cols-3 gap-8 mx-auto md:items-center sm:px-12 px-4 bg-gray-900 py-7 ">
+        <div className="bg- -900 mt-7 text-white md:grid lg:grid-cols-3 gap-8 mx-auto md:items-center sm:px-12 px-4 bg-gray-900 py-7 ">
         <div className="">
             <h1 className="w-full text-3xl font-bold text-gray-500 ">Tanga Food</h1>
                     <p className="py-4">

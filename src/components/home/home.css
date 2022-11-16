@@ -10,12 +10,9 @@
     --color-white: #FFFFFF;
   }
 
-
-
 .home{
     background-image:url("../../images/istockphoto-1227498840-170667a.jpg");
     background-size:cover;
-    position:absolute;
     left:0;
     z-index: 1;
     width:100%;
